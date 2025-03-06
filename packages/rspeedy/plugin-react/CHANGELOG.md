@@ -1,5 +1,22 @@
 # @lynx-js/react-rsbuild-plugin
 
+## 0.9.1
+
+### Patch Changes
+
+- Support NPM provenance. ([#30](https://github.com/lynx-family/lynx-stack/pull/30))
+
+- fix(rspeedy/plugin-react): mkdir main:background fails in windows ([#76](https://github.com/lynx-family/lynx-stack/pull/76))
+
+- Updated dependencies [[`c617453`](https://github.com/lynx-family/lynx-stack/commit/c617453aea967aba702967deb2916b5c883f03bb), [`ea82ef6`](https://github.com/lynx-family/lynx-stack/commit/ea82ef63e367c6bb87e4205b6014cc5e1f6896a2)]:
+  - @lynx-js/runtime-wrapper-webpack-plugin@0.0.8
+  - @lynx-js/react-refresh-webpack-plugin@0.3.2
+  - @lynx-js/css-extract-webpack-plugin@0.5.1
+  - @lynx-js/template-webpack-plugin@0.6.4
+  - @lynx-js/react-webpack-plugin@0.6.7
+  - @lynx-js/react-alias-rsbuild-plugin@0.9.1
+  - @lynx-js/web-webpack-plugin@0.6.2
+
 ## 0.9.0
 
 ### Minor Changes

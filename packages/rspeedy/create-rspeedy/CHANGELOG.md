@@ -1,5 +1,11 @@
 # create-rspeedy
 
+## 0.8.3
+
+### Patch Changes
+
+- Support NPM provenance. ([#30](https://github.com/lynx-family/lynx-stack/pull/30))
+
 ## 0.8.2
 
 ### Patch Changes

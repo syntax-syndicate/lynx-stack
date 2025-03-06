@@ -1,5 +1,16 @@
 # @lynx-js/web-constants
 
+## 0.7.1
+
+### Patch Changes
+
+- Support NPM provenance. ([#30](https://github.com/lynx-family/lynx-stack/pull/30))
+
+- refractor: improve some internal logic for element creating in MTS ([#71](https://github.com/lynx-family/lynx-stack/pull/71))
+
+- Updated dependencies [[`c617453`](https://github.com/lynx-family/lynx-stack/commit/c617453aea967aba702967deb2916b5c883f03bb)]:
+  - @lynx-js/web-worker-rpc@0.7.1
+
 ## 0.7.0
 
 ### Minor Changes
